@@ -27,8 +27,8 @@ cp -r package/Lienol-package/package/chinadns-ng package/lienol/chinadns-ng
 cp -r package/Lienol-package/package/dns2socks package/lienol/dns2socks
 cp -r package/Lienol-package/package/tcping package/lienol/tcping
 echo "Copy done"
-#rm -rf package/Lienol-package
-#rm -rf package/kenzok8-package
+rm -rf package/Lienol-package
+rm -rf package/kenzok8-package
 echo "Delete done"
 
 
