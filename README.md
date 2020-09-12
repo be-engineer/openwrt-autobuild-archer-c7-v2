@@ -6,7 +6,7 @@
 [![CTCGFW](https://img.shields.io/badge/OpenWrt-CTCGFW-orange.svg?style=flat&logo=appveyor)](https://github.com/project-openwrt/openwrt)
 
 
-#注：编译出来的固件可以工作，但是没有5G信号，原因未知
+##注：编译出来的固件可以工作，但是没有5G信号，原因未知
 ## 简介 (基于Template)
 
 - 通用 OpenWrt 定制项目
