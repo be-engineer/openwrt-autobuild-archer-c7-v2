@@ -6,7 +6,7 @@
 [![CTCGFW](https://img.shields.io/badge/OpenWrt-CTCGFW-orange.svg?style=flat&logo=appveyor)](https://github.com/project-openwrt/openwrt)
 
 
-## 注：编译出来的固件可以工作，但是没有5G信号，原因未知
+# 注：编译出来的固件可以工作，但是没有5G信号，原因还未找到
 ## 简介 (基于Template)
 
 - 通用 OpenWrt 定制项目
@@ -22,7 +22,6 @@
 | :---------------- | :-------------------------------------------------------------- |
 | -- EMAIL          | Github用户邮箱                                                  |
 | -- RELEASE_TOKEN  | 个人 Settings/Developer settings/Personal access tokens新建获取 |
-| -- TMP_LINK_TOKEN | TMP.link命令行上传文件-生成上传命令到剪贴板-token=xxxxxx        |
 | -- SCKEY          | Server酱SCKEY                                                   |
 
 ## 功能
@@ -33,7 +32,6 @@
 - 自动上传固件
 - 自动发布固件
 - 自动创建分支
-- 自动上传到TMP.link
 - 自动上传到奶牛快传
 
 ## 变量
