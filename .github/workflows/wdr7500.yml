@@ -17,6 +17,7 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
   REPO_BRANCH: master
   CONFIG_FILE: wdr7500.config
   DIY_SH: scripts.sh
